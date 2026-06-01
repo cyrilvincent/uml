@@ -1,0 +1,12 @@
+Détecter un usage de la route
+Système : Boitier calculateur
+Les lidars, son, camera, .... sont à l'extérieur du boitier
+Signaux warning utilisateur : UI haptic : exterieur
+Interieur : SoC MC Accelerometer CAN
+
+Detecter obstacle
+Declencher un warning
+Declencher haptic (mechanical)
+Verifier que tout marche
+Mode degradé
+Entretien programmé
