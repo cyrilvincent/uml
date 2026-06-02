@@ -6,3 +6,6 @@ Un SoC possède plusieurs core
 Mettre environ 5 attributs par classes
 Faire uniquement des associations
 Mettre au mois 1 opération par Class
+
+Il existe plusieurs types de core et plusieurs types de bus
+Créer des interfaces et classes abstraites
