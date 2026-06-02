@@ -1,0 +1,16 @@
+Sequence Diagram
+
+ADAS 
+Radar simple : acteur
+Radar intelligent : acteur
+Application feature freinage urgence
+Application detection objet
+
+Interaction:
+ADAS en attente d'un message d'un des radars
+Detection d'un information
+En fonction de de l'information : invoque l'appli A ou B
+Application retourne un resultat
+Application simple = synchrone
+Application intelligente = asynchrone
+
