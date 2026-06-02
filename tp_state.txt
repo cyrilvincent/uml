@@ -1,0 +1,9 @@
+ECU a une enumeration
+boot
+shutdown
+idle
+word
+downgrade
+eco
+maintenace
+update
